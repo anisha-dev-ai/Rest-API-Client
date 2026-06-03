@@ -58,3 +58,7 @@ Sends HTTP GET requests.
 Parses JSON responses efficiently.
 Displays weather information in a structured format.
 Uses separate classes for better organization and maintainability.
+
+OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/63483e5a-e66f-4e9e-b3d9-b01581018fe5" />
